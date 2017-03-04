@@ -1,0 +1,5 @@
+cat кот
+dog собака
+fish рыба
+zero ноль [0]
+hello привет
